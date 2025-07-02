@@ -35,7 +35,8 @@ This is a simple number guessing game where the system generates a random number
 
 ## Developer
 
-This game was developed by **Muhammad Talha Tariq**. 
+This game was developed by **Muhammad Talha Tariq**.
+
 PIAIC Batch 52, Lahore, Pakistan.
 
 ## License
