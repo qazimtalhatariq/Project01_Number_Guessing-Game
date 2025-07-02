@@ -1,4 +1,6 @@
-# mtt_number_guessing_game
+# CLI-Based Number Guessing Game
+
+## mtt_number_guessing_game
 
 A fun and interactive command-line number guessing game!
 
