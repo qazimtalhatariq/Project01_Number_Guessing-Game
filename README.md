@@ -33,9 +33,9 @@ This is a simple number guessing game where the system generates a random number
 7.  It will tell you if your guess was correct or not.
 8.  Finally, it will ask if you want to play again. Choose "Yes" to continue or "No" to exit.
 
-## Author
+## Developer
 
-This game was developed by Muhammad Talha Tariq.
+This game was developed by **Muhammad Talha Tariq**. 
 PIAIC Batch 52, Lahore, Pakistan.
 
 ## License
