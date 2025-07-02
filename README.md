@@ -22,7 +22,7 @@ This is a simple number guessing game where the system generates a random number
 1.  Once installed, run the game from your terminal:
 
     ```bash
-    mtt_number_guessing_game
+    npx mtt_number_guessing_game
     ```
 
 2.  The game will greet you with an animated welcome message.
